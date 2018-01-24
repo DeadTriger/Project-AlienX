@@ -1,3 +1,2 @@
-# Test
-testing repository
-this is to test the new repository
+Alien x project.
+**counts the number of aliens visiting Earth**
