@@ -2,5 +2,6 @@
 main()
 {
 printf("This is new commit test");
-printf("Hello");
+printf("Hello ");
+  printf("Edit from branch");
 }
